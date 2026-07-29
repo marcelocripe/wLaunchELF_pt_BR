@@ -278,7 +278,7 @@ lang(246, Free_Window, "Liberar a Janela")
 lang(247, Window_Not_Yet_Saved, "Esta Janela Ainda Nao Foi Salva")
 lang(248, File_Created, "O Arquivo Foi Criado")
 lang(249, Failed_Creating_File, "Falha ao Criar o Arquivo")
-lang(250, File_Opened, "O Arquivo Est· Aberto")
+lang(250, File_Opened, "O Arquivo Est√° Aberto")
 lang(251, Failed_Opening_File, "Falha ao Abrir o Arquivo")
 lang(252, File_Not_Yet_Saved, "O Arquivo Ainda Nao Foi Salvo")
 lang(253, File_Not_Yet_Saved_Closed, "O Arquivo Foi Fechado")
@@ -334,7 +334,7 @@ lang(298, Font_File, "Arquivo da Fonte")
 // Observe que substrings nessa tela de informacoes NUNCA devem ter
 // quaisquer definicoes de linguagem feitas para eles, como podem e irao
 // diferem entre as versoes, dependendo das necessidades de depuracao atuais.
-// Portanto, apenas o nome da prÛpria entrada MISC deve ser definido.
+// Portanto, apenas o nome da pr√≥pria entrada MISC deve ser definido.
 lang(299, Debug_Info, "Informacoes de depuracao")
 //--------------------------------------------------------------
 // Novos modos de exibicao do navegador de arquivos e modos de classificacao adicionados
@@ -360,7 +360,7 @@ lang(313, KB_RETURN, "ENTER")
 lang(314, GUI, "GUI")
 lang(315, Apply_GUI_Skin, "Aplicar o Tema a GUI")
 lang(316, Skin_Preview, "Visualizar o Tema")
-lang(317, Halt, "Parar")  // Texto alternativo interrompido, adicionado para fins de skin (tema) da tela principal, sÛ aparece quando o skin da tela principal esta ativo
+lang(317, Halt, "Parar")  // Texto alternativo interrompido, adicionado para fins de skin (tema) da tela principal, s√≥ aparece quando o skin da tela principal esta ativo
 lang(318, Delay, "Atraso")  // Mesmo motivo acima
 lang(319, Show_Menu, "Exibir o Menu")
 //---------------------------------------------------------------------------
@@ -368,7 +368,7 @@ lang(319, Show_Menu, "Exibir o Menu")
 lang(320, Load_Skin_CNF, "Carregar o Tema do CNF")
 lang(321, Save_Skin_CNF, "Salvar o Tema do CNF")
 //---------------------------------------------------------------------------
-// Novo comando FileBrowser (Gerenciador de Arquivos) para cartoes de memÛria virtual
+// Novo comando FileBrowser (Gerenciador de Arquivos) para cartoes de mem√≥ria virtual
 lang(322, Mount, "Montar")
 //---------------------------------------------------------------------------
 // Nova entrada MISC para exibicao na tela "Sobre o uLE"
