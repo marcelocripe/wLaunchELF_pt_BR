@@ -1,5 +1,3 @@
-Descrição original em idioma Português do Brasil:
-
 Sobre o arquivo "pt_BR_wLaunchELF_ps2homebrew_14-08-2021.lng" para wLaunchELF:
 
 O arquivo "pt_BR_wLaunchELF_ps2homebrew_14-08-2021.lng" é uma contribuição do Venão (Hardlevel) no dia 12-08-2020 e revisão do marcelocripe no dia 11-08-2021 para a tradução do wLaunchELF para o idioma Português do Brasil referente ao projeto:
